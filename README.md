@@ -1,1 +1,1 @@
-# ai-course-accelerator-
+# ai-course-accelerator-data
